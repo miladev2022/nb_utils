@@ -21,7 +21,7 @@ dependencies:
   plugin_platform_interface: ^2.1.8
 
   shared_preferences: ^2.5.3
-  fluttertoast: ^8.2.12
+  fluttertoast: ^9.0.0
   connectivity_plus: ^6.1.5
   http: ^1.5.0
 
